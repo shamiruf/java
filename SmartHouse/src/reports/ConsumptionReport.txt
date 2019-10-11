@@ -1,0 +1,12 @@
+The consumption of TV is 0,000009 CZK 
+The consumption of TV is 0,000111 w/hour.
+
+The consumption of Curtain is 0,000014 CZK 
+The consumption of Curtain is 0,000167 w/hour.
+
+The consumption of Lights is 0,000534 CZK 
+The consumption of Lights is 0,006278 w/hour.
+
+The consumption of CDplayer is 5885,135282 CZK 
+The consumption of CDplayer is -50067,761444 w/hour.
+
